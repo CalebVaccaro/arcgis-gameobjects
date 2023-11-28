@@ -1,0 +1,20 @@
+{
+    "name": "ArcGIS.GameObjects",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a8683e3dbe9d5c24580f512e02b22195",
+        "GUID:1d31bd9a5282757459ecc531a9c285cc",
+        "GUID:a620728d797078f4299e30d43ab05f28",
+        "GUID:432b70115e987f44abb984cfe7de384f",
+        "GUID:d8b63aba1907145bea998dd612889d6b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
