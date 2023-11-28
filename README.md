@@ -6,6 +6,7 @@ Instantiate `ArcGISGameObjects` within the ArcGIS Map SDK for Unity to synchroni
 
 ## Installation
 
+- Requires `Unity 2021.3.x` or higher
 - Get [ArcGIS API Key](https://developers.arcgis.com/unity/authentication/)
 - Install [ArcGIS Map SDK for Unity](https://developers.arcgis.com/unity/install-and-set-up/)
 - Install [ArcGIS Map SDK for Unity Examples](https://developers.arcgis.com/unity/install-and-set-up/add-the-plugin-to-a-new-project/#import-sample-assets)
