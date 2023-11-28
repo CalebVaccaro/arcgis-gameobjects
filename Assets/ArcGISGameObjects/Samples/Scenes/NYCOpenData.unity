@@ -432,7 +432,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1032677564}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 44f3381abd4f52e48928147257044361, type: 3}
   m_Name: 
@@ -722,7 +722,7 @@ MonoBehaviour:
   arcGISPrefab: {fileID: 3312051477081009979, guid: a3b225ed73de7420c8334e4d1a55ddf9,
     type: 3}
   queryCount: 500
-  altitude: 1000
+  altitude: 200
 --- !u!4 &2066089225
 Transform:
   m_ObjectHideFlags: 0

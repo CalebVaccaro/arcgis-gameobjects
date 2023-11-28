@@ -45,6 +45,20 @@ var transitArcGISGameObject = ArcGISGameObject
 
 *For more examples, please refer to the [Documentation](https://developers.arcgis.com/unity/)*
 
+## Samples
+
+### Create ArcGISGameObjects
+![createarcgisgameobject](media/createarcgisgameobjects.PNG)
+
+### Local JSON transformed into ArcGISGameObjects
+![localjson](media/arcgisgameobjects.PNG)
+
+### Find Nearest Neighbor using Haversine Formula
+![haversine](media/haversine.gif)
+
+### Create ArcGISGameObjects from API Data (Example: NYCOpenData)
+![apidata](media/nycopendata.PNG)
+
 ## Contact
 
 Contact
