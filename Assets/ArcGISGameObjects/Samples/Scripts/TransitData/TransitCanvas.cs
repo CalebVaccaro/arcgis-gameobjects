@@ -36,7 +36,7 @@ public class TransitCanvas : MonoBehaviour
         {
             X1 = x1.ToString();
             Y1 = y1.ToString();
-            X2 = y1.ToString();
+            X2 = x2.ToString();
             Y2 = y2.ToString();
             Distance = distance.ToString();
         }

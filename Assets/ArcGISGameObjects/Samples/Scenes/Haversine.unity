@@ -304,7 +304,7 @@ GameObject:
   - component: {fileID: 466336644}
   - component: {fileID: 466336643}
   m_Layer: 5
-  m_Name: TransitType
+  m_Name: None
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -444,7 +444,7 @@ GameObject:
   - component: {fileID: 951193902}
   - component: {fileID: 951193903}
   m_Layer: 5
-  m_Name: Name
+  m_Name: Position1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -759,7 +759,7 @@ GameObject:
   - component: {fileID: 964376319}
   - component: {fileID: 964376320}
   m_Layer: 5
-  m_Name: Frequency
+  m_Name: Distance
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1121,7 +1121,7 @@ GameObject:
   - component: {fileID: 1632988589}
   - component: {fileID: 1632988590}
   m_Layer: 5
-  m_Name: Street
+  m_Name: Position2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
